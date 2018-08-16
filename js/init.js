@@ -1,7 +1,6 @@
-(function($){
-  $(function(){
+$(function(){
 
-    $('.sidenav').sidenav();
+    // $('.sidenav').sidenav();
 
-  }); // end of document ready
-})(jQuery); // end of jQuery name space
+e  }); // end of document ready
+
